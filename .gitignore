@@ -34,3 +34,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# .vscode & settings.json => settings.json folder is using to set laguage mode fore tailwindcss instead of the default css.
+# There is no any other functionality. 
+.vscode
+settings.json
